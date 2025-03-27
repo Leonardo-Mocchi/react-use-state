@@ -9,7 +9,7 @@ function DetailCard({ language }) {
                     <p>{language.description}</p>
                 </div>
             ) : (
-                <p>Select a coding language by clicking on it above to see its description :)</p>
+                <p>Select a coding language above, by clicking on it, to see its description :)</p>
             )}
         </div>
     );
